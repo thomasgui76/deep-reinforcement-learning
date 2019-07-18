@@ -34,7 +34,16 @@ deep Q-network, that can learn successful policies directly from high-dimensiona
 Follow the instructions in `Navigation.ipynb` to get started with training my own agent!  
 
 parameters setting for the DQN algorithm:
-I set the mini batch to 64, e.g. input 64 states to Q network for training.
+
+the DQN model include total 3 linear layers. first 2 linear layers have same size of hidden node 64. then followed by relu activation.
+input is state vector, output is action vector. from other point of view, the DQN may be seen as a "classifier"
+e.g. we classify every state input as specific class which is actually best action to choose.
+
+another model is dueling DQN Network architecture. the first 2 linear layers have 64,128 hidden node respectively.
+then split into two streams v and A, v is a scalar representation for state value function. A is a vector to represent advantage
+function to choose optimal action. final out is v + A which can be seen as Q function representation.
+
+I set the mini batch to 64, e.g. input 64 states to Q network for training once.
 replay buffer size to 10K which means use a maximum 10K size memory to keep past frame experience.
 GAMMA, discount factor is 0.99
 LR, learning rate is 0.0005

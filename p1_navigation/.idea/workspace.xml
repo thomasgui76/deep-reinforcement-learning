@@ -7,8 +7,7 @@
       <change beforePath="$PROJECT_DIR$/../dqn/solution/dqn_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dqn/solution/dqn_agent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dynamic-programming/Dynamic_Programming_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../dynamic-programming/Dynamic_Programming_Solution.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../monte-carlo/Monte_Carlo_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../monte-carlo/Monte_Carlo_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Navigation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Navigation_Pixels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation_Pixels.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report.md" beforeDir="false" afterPath="$PROJECT_DIR$/Report.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temporal-difference/Temporal_Difference_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../temporal-difference/Temporal_Difference_Solution.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,25 +28,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="3" />
+          <entry key="ipynb" value="4" />
+          <entry key="md" value="1" />
           <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="3" />
+          <entry key="IPNB" value="4" />
+          <entry key="Markdown" value="1" />
           <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="20" />
+          <entry key="md" value="895" />
           <entry key="py" value="844" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="20" />
+          <entry key="Markdown" value="895" />
           <entry key="Python" value="844" />
         </counts>
       </usages-collector>
@@ -71,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/Report.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1489">
-                <caret line="74" column="28" lean-forward="true" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+              <first_editor relative-caret-position="522">
+                <caret line="45" column="79" selection-start-line="45" selection-start-column="79" selection-end-line="45" selection-end-column="79" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,11 +83,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dqn_agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="-1401">
               <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Navigation.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -103,7 +125,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dueling_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
+            <state relative-caret-position="639">
               <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
@@ -206,7 +228,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32962668" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -218,6 +240,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Navigation-P1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/double_dqn_agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Navigation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -225,7 +265,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Navigation-P1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/dqn_agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1401">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -236,26 +285,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dqn_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/double_dqn_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dueling_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
+        <state relative-caret-position="639">
           <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
@@ -266,8 +298,8 @@
     <entry file="file://$PROJECT_DIR$/Report.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1489">
-            <caret line="74" column="28" lean-forward="true" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+          <first_editor relative-caret-position="522">
+            <caret line="45" column="79" selection-start-line="45" selection-start-column="79" selection-end-line="45" selection-end-column="79" />
           </first_editor>
           <second_editor />
         </state>
